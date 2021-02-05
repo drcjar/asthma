@@ -1,4 +1,6 @@
-﻿# Definition
+%todo: add pics and links e.g helpful inhaler table, patient info resources etc (take  some from asthma folder)
+
+# Definition
 
 chronic respiratory disease characterized by variable and recurring symptoms (typically intermittant cough, wheeze and breathlessness), airway inflammation, airflow obstruction, and bronchial hyperresponsiveness.
 
