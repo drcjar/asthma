@@ -69,9 +69,11 @@ Consider alternative diagnoses, or referral for a second opinion, in adults (age
 ## management and prognosis
 
 - SPT to aeroallergens or specific IgE 
-- consider reasons for uncontrolled asthma before escalating treatment: wrong diagnosis, lack of adherence, poor inhaler technique, smoking (active or passive), occupational epxosures, psychosocial factors, seasonal or environmental factors
+- consider reasons for uncontrolled asthma before escalating treatment: wrong diagnosis, lack of adherence, poor inhaler technique (check it), smoking (active or passive), occupational epxosures, psychosocial factors, seasonal or environmental factors
 - review response to treatment adustment in 4-8/52
 - check inhaler technique at any asthma review (routine or unscheduled)
+- record PEFR and [predicted](https://www.mdcalc.com/estimated-expected-peak-expiratory-flow-peak-flow)
+- advise flu vaccine annually and pneumococcal vaccine every 5-10 years
 - treatment steps (see table 12 SIGN guidleins for adult ICS dose guide): 
 1. SABA (alone if minimal sx and normal lung function)
 2. Low dose (<400mcg budesonide or equiv) ICS (asthma related sx 3x / week or causing waking at night / ADL limitation - RCP 3 qs - not relieved by SABA)
