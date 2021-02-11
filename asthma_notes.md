@@ -1,4 +1,4 @@
-%todo: add pics and links e.g helpful inhaler table, patient info resources etc (take  some from asthma folder)
+%todo: add pics and links e.g helpful inhaler table, patient info resources etc (take  some from asthma folder), add pathology detail
 
 # Definition
 
