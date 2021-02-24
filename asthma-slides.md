@@ -36,8 +36,6 @@ asthma is a chronic respiratory disease characterized by:
 3. airflow obstruction
 4. bronchial hyperresponsiveness
 
-#
-
 # {data-background="images/asthma_airway.png"}
 
 #
