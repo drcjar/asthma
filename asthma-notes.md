@@ -89,6 +89,8 @@ Consider alternative diagnoses, or referral for a second opinion, in adults (age
  
 
 # references / additional info
+
+[handy inhaler table](https://www.nice.org.uk/guidance/ng80/resources/inhaled-corticosteroid-doses-pdf-4731528781)
 nice guidelines
 bts/sign guidelines
 gina guidelines
