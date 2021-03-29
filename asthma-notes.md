@@ -59,7 +59,7 @@ Suspect asthma in adults with symptoms suggestive of asthma, obstructive spirome
 
 Do not rule out other diagnoses if symptom control continues to remain poor after treatment. Review the diagnosis after 6to10weeks by repeating spirometry and objective measures of asthma control and reviewing symptoms. 
 
-Consider alternative diagnoses, or referral for a second opinion, in adults (aged 17and over) with symptoms suggestive of asthma and: 
+Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/show/1831), or referral for a second opinion, in adults (aged 17and over) with symptoms suggestive of asthma and: 
 1. a FeNO level below 40ppb, normal spirometry and positive peak flow variability
 2. a FeNO level of 40ppb or more but normal spirometry, negative peak flow variability, and negative bronchial challenge test
 3. obstructive spirometry with bronchodilator reversibility, but a FeNO level below 25ppb, and negative peak flow variability
