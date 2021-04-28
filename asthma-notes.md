@@ -77,7 +77,8 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
 -- ILO (classically c/o dysphonia, triggers include bleech, perfume, strong smells, ENT for flexi laryngoscopy and diagnosis) 
 -- ABPA/ABPA-S (must have asthma, asp rast or skin test +ive, total IgE > 1000 typically, precipitating serum antibodies to asp, asp IgG, eoso > 0.5, ct showing infiltrates)
 -- EGPA(asthma, >10 eosos on white cell diff, mono/polyneuropahty, migratory/transient pulmonary opacities, paranasal sinus abn, bx showing accumulation of eosos in extravascular area, ANCA +ive in 30-60% pts, 75% of the time p-anca/mpo-anca)
-- ensure hayfever and reflux rx optimised e.g fexofenadine 180 od, flixonase nasal spry (50mcg, 1 spray each nostril bd), sodium cromoglycate 10mg qds initially, olopatadine  1 drop each eye bd.
+- ensure hayfever rx optimised e.g fexofenadine 180 od, flixonase nasal spry (50mcg, 1 spray each nostril bd), sodium cromoglycate 10mg qds initially, olopatadine  1 drop each eye bd.
+- ensure reflux optimised e.g omeprazole 40mg bd, gavascon 15ml tds
 - naysl polyps - ask about anosmia and ref ENT
 - review response to treatment adustment in 4-8/52
 - check inhaler technique at any asthma review (routine or unscheduled)
