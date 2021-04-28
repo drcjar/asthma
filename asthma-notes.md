@@ -73,10 +73,12 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
 - SPT to aeroallergens or specific IgE 
 - consider reasons for uncontrolled asthma before escalating treatment: wrong diagnosis, lack of adherence, poor inhaler technique (check it), smoking (active or passive), occupational epxosures, psychosocial factors, seasonal or environmental factors
 - consider specifically: 
--- BPD (assoc with anxiety, usually physio diagnosed using e.g Nijmegen Questionnaire) 
--- ILO (classically c/o dysphonia, triggers include bleech, perfume, strong smells) 
--- ABPA/ABPA-S (must have asthma, asp rast or skin test +ive, total IgE > 1000 typically, precipitating serum antibodies to asp, asp IgG, eoso > 0.5, ct showing infiltrates)
--- EGPA(asthma, >10 eosos on white cell diff, mono/polyneuropahty, migratory/transient pulmonary opacities, paranasal sinus abn, bx showing accumulation of eosos in extravascular area, ANCA +ive in 30-60% pts, 75% of the time p-anca/mpo-anca)
+
+* BPD (assoc with anxiety, usually physio diagnosed using e.g Nijmegen Questionnaire) 
+* ILO (classically c/o dysphonia, triggers include bleech, perfume, strong smells) 
+* ABPA/ABPA-S (must have asthma, asp rast or skin test +ive, total IgE > 1000 typically, precipitating serum antibodies to asp, asp IgG, eoso > 0.5, ct showing infiltrates)
+* EGPA(asthma, >10 eosos on white cell diff, mono/polyneuropahty, migratory/transient pulmonary opacities, paranasal sinus abn, bx showing accumulation of eosos in extravascular area, ANCA +ive in 30-60% pts, 75% of the time p-anca/mpo-anca)
+
 - ensure hayfever and reflux rx optimised e.g fexofenadine 180
 - review response to treatment adustment in 4-8/52
 - check inhaler technique at any asthma review (routine or unscheduled)
