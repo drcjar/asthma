@@ -30,8 +30,10 @@ Causes of asthma are not completely understood. The strongest risk factors for d
 
 ## history
 
+- (if already diagnosed) review evidence for diagnosis
+- (if already diagnosed) review symptoms over lifecourse e.g if sudden onset at 16, why?, born at term? ITU admissions? 
 - wheeze, cough or breathlessness, and any daily or seasonal variation in these symptoms 
-- any triggers that make symptoms worse 
+- any triggers that make symptoms worse; tell me about a good day vs when exposed to triggers?
 - pulmonary risk factors: occupation, personal/fam hx atopy, smoking, personal hx tb or contact with
 
 ## examination
@@ -59,7 +61,7 @@ Suspect asthma in adults with symptoms suggestive of asthma, obstructive spirome
 
 Do not rule out other diagnoses if symptom control continues to remain poor after treatment. Review the diagnosis after 6to10weeks by repeating spirometry and objective measures of asthma control and reviewing symptoms. 
 
-Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/show/1831), or referral for a second opinion, in adults (aged 17and over) with symptoms suggestive of asthma and: 
+Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/show/1831), or referral for a second opinion, in adults (aged 17 and over) with symptoms suggestive of asthma and: 
 1. a FeNO level below 40ppb, normal spirometry and positive peak flow variability
 2. a FeNO level of 40ppb or more but normal spirometry, negative peak flow variability, and negative bronchial challenge test
 3. obstructive spirometry with bronchodilator reversibility, but a FeNO level below 25ppb, and negative peak flow variability
@@ -70,6 +72,8 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
 
 - SPT to aeroallergens or specific IgE 
 - consider reasons for uncontrolled asthma before escalating treatment: wrong diagnosis, lack of adherence, poor inhaler technique (check it), smoking (active or passive), occupational epxosures, psychosocial factors, seasonal or environmental factors
+- consider specifically BPD (assoc with anxiety, usually physio diagnosed using e.g Nijmegen Questionnaire), ILO (classically c/o dysphonia, triggers include bleech, perfume, strong smells), ABPA/ABPA-S (must have asthma, asp rast or skin test +ive, total IgE > 1000 typically, precipitating serum antibodies to asp, asp IgG, eoso > 0.5, ct showing infiltrates), EGPA(asthma, >10 eosos on white cell diff, mono/polyneuropahty, migratory/transient pulmonary opacities, paranasal sinus abn, bx showing accumulation of eosos in extravascular area, ANCA +ive in 30-60% pts, 75% of the time p-anca/mpo-anca)
+- ensure hayfever and reflux rx optimised e.g fexofenadine 180
 - review response to treatment adustment in 4-8/52
 - check inhaler technique at any asthma review (routine or unscheduled)
 - record PEFR and [predicted](https://www.mdcalc.com/estimated-expected-peak-expiratory-flow-peak-flow)
@@ -87,6 +91,9 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
 - consider using Asthma Control Test for monitoring (asthma control = symptom control + future risk of adverse outcomes)
 - risk stratify and communicate risk 
  
+# biologics
+
+
 
 # references / additional info
 
@@ -96,6 +103,7 @@ bts/sign guidelines
 gina guidelines
 example clinic letters
 lj
+jo f
 ox text book
 ox hand book
 ?eu/us guidelines
