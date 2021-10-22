@@ -91,7 +91,7 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
 4. Add LABA and stop LTRA if it didn't help
 5. Offer MART regimen
 6. Increase to moderate dose (400mcg-800mcg budesonide or equiv) ICS (MART or not)
-7. Increase to high dose (>800mcg budesonide or equiv) ICS (MART or not) OR trial of additional drug e.g LAMA or theophylline OR advice from HCP with asthma expertise (consider azithromyicin, biologics (anti-IgE omalizumab, anti-IL5 mepolizumab and reslizumab and benralizumab, anti-IL4 dupilumab, low dose oral steroids)  
+7. Increase to high dose (>800mcg budesonide or equiv) ICS (MART or not) OR trial of additional drug e.g LAMA or theophylline OR advice from HCP with asthma expertise (consider azithromyicin (usually 12 months max), biologics (anti-IgE omalizumab, anti-IL5 mepolizumab and reslizumab and benralizumab, anti-IL4 dupilumab, low dose oral steroids)  
 - offer a personalised asthma action plan e.g quadruple regular ICS dose for 7 days when asthma deteriorates (PEF < 80% best), oral steroids and same-day medical advice (PEF < 60% best), urgent medical advice (PEF < 50% best)
 - decrease when well controlled for 3/12
 - consider using Asthma Control Test for monitoring (asthma control = symptom control + future risk of adverse outcomes)
@@ -99,7 +99,16 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
  
 # biologics
 
+1. Make sure it's really asthma
+2. Make sure on adequeate treatment (high-dose inhaled steroids)
+3. Check adherence
+4. Treat any comorbidities
+5. Consider biologic if meets criteria (need to know what sensitised to, IgE, eosinophils, weight). Point of having a biologic is to reduce exacerbation frequency and steroid use.
 
+# studies
+
+OSMO study. Switching oma for mepo can work if sx not controlled.
+AMAZES. Azithromycin for asthma.
 
 # references / additional info
 
