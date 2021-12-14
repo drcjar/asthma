@@ -105,6 +105,8 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
 4. Treat any comorbidities
 5. Consider biologic if meets criteria (need to know what sensitised to, IgE, eosinophils, weight). Point of having a biologic is to reduce exacerbation frequency and steroid use.
 
+[American college of allergy, asthma, and immunology cheat sheet](https://college.acaai.org/wp-content/uploads/2021/10/biologics-cheat-sheet.pdf)
+
 # studies
 
 OSMO study. Switching oma for mepo can work if sx not controlled.
