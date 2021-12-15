@@ -134,3 +134,5 @@ girft
 jfc - joint fomulary committee
 S25 and QS181
 https://www.brit-thoracic.org.uk/quality-improvement/clinical-resources/asthma/
+
+https://www.thoracic.org/professionals/career-development/residents-medical-students/ats-reading-list/adult/asthma.php
