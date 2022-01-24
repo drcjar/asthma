@@ -75,7 +75,7 @@ Consider alternative diagnoses e.g [ILO/VCD](https://www.evidencio.com/models/sh
 - consider specifically: 
 -- BPD (assoc with anxiety, often disproportionate sx, consider if can't breath through nose, usually physio diagnosed using e.g Nijmegen Questionnaire) 
 -- ILO (classically c/o dysphonia, triggers include bleech, perfume, strong smells, ENT for flexi laryngoscopy and diagnosis) 
--- ABPA/ABPA-S (must have asthma, asp rast or skin test +ive, total IgE > 1000 typically, precipitating serum antibodies to asp, asp IgG, eoso > 0.5, ct showing infiltrates; rx pred 40mg for 2 weeks then down to 20mg for a week then down by 5mg weekly thereafter)
+-- ABPA/ABPA-S (must have asthma, asp rast or skin test +ive, total IgE > 1000 typically, precipitating serum antibodies to asp, asp IgG, eoso > 0.5, ct showing infiltrates; rx pred 40mg for 2 weeks then down to 20mg for a week then down by 5mg weekly thereafter, if can't wean steroids then itraconazole, loading dose of 200 mg three times a day for three days, followed by 200 mg twice daily for 16 weeks, monthly lfts).
 -- EGPA(asthma, >10 eosos on white cell diff, mono/polyneuropahty, migratory/transient pulmonary opacities, paranasal sinus abn, bx showing accumulation of eosos in extravascular area, ANCA +ive in 30-60% pts, 75% of the time p-anca/mpo-anca)
 - ensure hayfever rx optimised e.g fexofenadine 180 od, flixonase nasal spry (50mcg, 1 spray each nostril bd), sodium cromoglycate 10mg qds initially, olopatadine  1 drop each eye bd, n.b Azelastine hydrochloride intranasal spray is the only intranasal antihistamine that is licensed in the UK for the treatment of allergic rhinitis (1 sprach each nostril bd)
 - ensure reflux optimised e.g omeprazole 40mg bd, gavascon 15ml tds
