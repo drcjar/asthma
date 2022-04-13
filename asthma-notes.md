@@ -113,7 +113,7 @@ OSMO study. Switching oma for mepo can work if sx not controlled.
 AMAZES. Azithromycin for asthma.
 
 # references / additional info
-
+[another handy inhaler table](https://www.nlg.nhs.uk/content/uploads/2021/12/Adult_Asthma_Pathway_2015_NEW.pdf)
 [handy inhaler table](https://www.nice.org.uk/guidance/ng80/resources/inhaled-corticosteroid-doses-pdf-4731528781)
 nice guidelines
 bts/sign guidelines
